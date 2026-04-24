@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+.env
+
+# Multer upload folder (temp files)
+uploads/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Optional: OS-specific
+.DS_Store
+Thumbs.db

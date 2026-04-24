@@ -1,0 +1,10 @@
+<svg width="180" height="40" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="35" fontFamily="Arial, Helvetica, sans-serif" fontSize="32" fontWeight="bold" fill="#4F46E5">
+    Hire
+  </text>
+  <text x="85" y="35" fontFamily="Arial, Helvetica, sans-serif" fontSize="32" fontWeight="bold" fill="#10B981">
+    Mind
+  </text>
+  <circle cx="160" cy="20" r="6" fill="#4F46E5"/>
+  <rect x="165" y="15" width="10" height="10" rx="2" fill="#10B981"/>
+</svg>
