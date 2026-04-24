@@ -15,10 +15,6 @@ router.route("/store").post(storeUserDetails);
 // POST /api/v1/user/upload-resume — upload a new resume
 router.route("/upload-resume").post(upload.single("resume"), uploadResume);
 
-// POST /api/v1/user/update-resume — update existing resume
-router.route("/update-resume").post(upload.single("resume"), updateResume);
 
-// POST /api/v1/user/resume — get a user's stored resume
-router.route("/resume").post(getUserResume);
 
 export { router as userRouter };
