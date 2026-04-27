@@ -69,16 +69,6 @@ Whether you're a candidate sharpening your skills or a recruiter screening appli
 
 ---
 
-## 🎬 Demo
-
-🔗 **Live App:** [https://prepifyinterviewer.netlify.app](https://prepifyinterviewer.netlify.app)
-
-| Landing Page | Candidate Dashboard | AI Interview |
-|:---:|:---:|:---:|
-| Browse features & choose your role | Apply to jobs & manage your resume | Real-time AI mock interview via voice |
-
----
-
 ## 🏗️ Architecture
 
 ```
