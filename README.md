@@ -22,7 +22,6 @@
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
-- [Demo](#-demo)
 - [Architecture](#-architecture)
 - [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack)
